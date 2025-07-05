@@ -46,7 +46,7 @@ O Sequence Set organiza os dados em listas ordenadas, otimizando buscas e remoç
 
 ## Requisitos
 
-- **Sistema Operacional:** Linux  
+- **Sistema Operacional:** Linux (acima do ubunto) ou windows
 - **Bibliotecas:** Não utiliza bibliotecas externas
 
 ---
